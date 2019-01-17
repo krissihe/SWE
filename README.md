@@ -1,2 +1,2 @@
 # SWE
-Übung_SWE
+Übung_SWE mit Github
